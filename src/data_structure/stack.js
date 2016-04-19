@@ -33,3 +33,5 @@ class Stack {
     console.log(this.dataSource.toString());
   }
 }
+
+export default Stack;

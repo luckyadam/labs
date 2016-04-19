@@ -17,3 +17,5 @@ class Queue {
     return this.dataSource[0];
   }
 }
+
+export default Queue;
